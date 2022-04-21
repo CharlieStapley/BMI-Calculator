@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMIcalculator</string>
+    <string name="weight_edit_hint">Enter your weight (kg)</string>
+    <string name="bmi_button_text">Calculate</string>
+    <string name="height_edit_hint">Enter your height (m)</string>
+    <string name="result_text">Result</string>
+    <string name="info_text">info: the B-M-I calculated does not take into account muscle mass.</string>
+</resources>
